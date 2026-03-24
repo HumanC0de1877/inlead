@@ -1,0 +1,100 @@
+Uri: https://fonts.googleapis.com/css?family=Inter:400,500,700&display=swap
+File Name: C:\Downloaded Web Sites\inleaddigiyli9.arktrix.app\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZ9hjQ.ttf
+File Name: C:\Downloaded Web Sites\inleaddigiyli9.arktrix.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fAZ9hjQ.ttf
+File Name: C:\Downloaded Web Sites\inleaddigiyli9.arktrix.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZ9hjQ.ttf
+File Name: C:\Downloaded Web Sites\inleaddigiyli9.arktrix.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://inleaddigiyli9.arktrix.app/posiciones-enloquecedoras/
+File Name: C:\Downloaded Web Sites\inleaddigiyli9.arktrix.app\posiciones-enloquecedoras\index.htm
+Content Type: text/html
+
+Uri: https://inleaddigiyli9.arktrix.app/_next/static/chunks/192-78603b6e847c192f.js?akv=2026-03-22.circuit-breaker
+File Name: C:\Downloaded Web Sites\inleaddigiyli9.arktrix.app\_next\static\chunks\192-78603b6e847c192f.js
+Content Type: application/javascript
+
+Uri: https://inleaddigiyli9.arktrix.app/_next/static/chunks/2159-2e76b59d07b08b06.js?akv=2026-03-22.circuit-breaker
+File Name: C:\Downloaded Web Sites\inleaddigiyli9.arktrix.app\_next\static\chunks\2159-2e76b59d07b08b06.js
+Content Type: application/javascript
+
+Uri: https://inleaddigiyli9.arktrix.app/_next/static/chunks/2413-588b9e95460210e1.js?akv=2026-03-22.circuit-breaker
+File Name: C:\Downloaded Web Sites\inleaddigiyli9.arktrix.app\_next\static\chunks\2413-588b9e95460210e1.js
+Content Type: application/javascript
+
+Uri: https://inleaddigiyli9.arktrix.app/_next/static/chunks/2986-c6e21918e6935d6b.js?akv=2026-03-22.circuit-breaker
+File Name: C:\Downloaded Web Sites\inleaddigiyli9.arktrix.app\_next\static\chunks\2986-c6e21918e6935d6b.js
+Content Type: application/javascript
+
+Uri: https://inleaddigiyli9.arktrix.app/_next/static/chunks/3357-231a5ab75947c65b.js?akv=2026-03-22.circuit-breaker
+File Name: C:\Downloaded Web Sites\inleaddigiyli9.arktrix.app\_next\static\chunks\3357-231a5ab75947c65b.js
+Content Type: application/javascript
+
+Uri: https://inleaddigiyli9.arktrix.app/_next/static/chunks/4901-2d3f64e4019edc09.js?akv=2026-03-22.circuit-breaker
+File Name: C:\Downloaded Web Sites\inleaddigiyli9.arktrix.app\_next\static\chunks\4901-2d3f64e4019edc09.js
+Content Type: application/javascript
+
+Uri: https://inleaddigiyli9.arktrix.app/_next/static/chunks/5169-f1bf3041be6256ac.js?akv=2026-03-22.circuit-breaker
+File Name: C:\Downloaded Web Sites\inleaddigiyli9.arktrix.app\_next\static\chunks\5169-f1bf3041be6256ac.js
+Content Type: application/javascript
+
+Uri: https://inleaddigiyli9.arktrix.app/_next/static/chunks/7951-63e3b4a30a33fd58.js?akv=2026-03-22.circuit-breaker
+File Name: C:\Downloaded Web Sites\inleaddigiyli9.arktrix.app\_next\static\chunks\7951-63e3b4a30a33fd58.js
+Content Type: application/javascript
+
+Uri: https://inleaddigiyli9.arktrix.app/_next/static/chunks/820-19dba5a8688480de.js?akv=2026-03-22.circuit-breaker
+File Name: C:\Downloaded Web Sites\inleaddigiyli9.arktrix.app\_next\static\chunks\820-19dba5a8688480de.js
+Content Type: application/javascript
+
+Uri: https://inleaddigiyli9.arktrix.app/_next/static/chunks/framework-b9fd9bcc3ecde907.js?akv=2026-03-22.circuit-breaker
+File Name: C:\Downloaded Web Sites\inleaddigiyli9.arktrix.app\_next\static\chunks\framework-b9fd9bcc3ecde907.js
+Content Type: application/javascript
+
+Uri: https://inleaddigiyli9.arktrix.app/_next/static/chunks/main-7efd09db82296ac8.js?akv=2026-03-22.circuit-breaker
+File Name: C:\Downloaded Web Sites\inleaddigiyli9.arktrix.app\_next\static\chunks\main-7efd09db82296ac8.js
+Content Type: application/javascript
+
+Uri: https://inleaddigiyli9.arktrix.app/_next/static/chunks/pages/[...all]-2fa0449d770d98da.js?akv=2026-03-22.circuit-breaker
+File Name: C:\Downloaded Web Sites\inleaddigiyli9.arktrix.app\_next\static\chunks\pages\[...all]-2fa0449d770d98da.js
+Content Type: application/javascript
+
+Uri: https://inleaddigiyli9.arktrix.app/_next/static/chunks/pages/_app-fcf3318e543e0aa1.js?akv=2026-03-22.circuit-breaker
+File Name: C:\Downloaded Web Sites\inleaddigiyli9.arktrix.app\_next\static\chunks\pages\_app-fcf3318e543e0aa1.js
+Content Type: application/javascript
+
+Uri: https://inleaddigiyli9.arktrix.app/_next/static/chunks/polyfills-42372ed130431b0a.js?akv=2026-03-22.circuit-breaker
+File Name: C:\Downloaded Web Sites\inleaddigiyli9.arktrix.app\_next\static\chunks\polyfills-42372ed130431b0a.js
+Content Type: application/javascript
+
+Uri: https://inleaddigiyli9.arktrix.app/_next/static/chunks/webpack-57dfcb8fe8b5ceb2.js?akv=2026-03-22.circuit-breaker
+File Name: C:\Downloaded Web Sites\inleaddigiyli9.arktrix.app\_next\static\chunks\webpack-57dfcb8fe8b5ceb2.js
+Content Type: application/javascript
+
+Uri: https://inleaddigiyli9.arktrix.app/_next/static/css/71b65c69d5db6775.css?akv=2026-03-22.circuit-breaker
+File Name: C:\Downloaded Web Sites\inleaddigiyli9.arktrix.app\_next\static\css\71b65c69d5db6775.css
+Content Type: text/css
+
+Uri: https://inleaddigiyli9.arktrix.app/_next/static/css/83d54731525ad5cf.css?akv=2026-03-22.circuit-breaker
+File Name: C:\Downloaded Web Sites\inleaddigiyli9.arktrix.app\_next\static\css\83d54731525ad5cf.css
+Content Type: text/css
+
+Uri: https://inleaddigiyli9.arktrix.app/_next/static/uplMGJTORAoS7EI1s74or/_buildManifest.js?akv=2026-03-22.circuit-breaker
+File Name: C:\Downloaded Web Sites\inleaddigiyli9.arktrix.app\_next\static\uplMGJTORAoS7EI1s74or\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://inleaddigiyli9.arktrix.app/_next/static/uplMGJTORAoS7EI1s74or/_ssgManifest.js?akv=2026-03-22.circuit-breaker
+File Name: C:\Downloaded Web Sites\inleaddigiyli9.arktrix.app\_next\static\uplMGJTORAoS7EI1s74or\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516
+File Name: C:\Downloaded Web Sites\inleaddigiyli9.arktrix.app\beacon.min.js\v8c78df7c7c0f484497ecbca7046644da1771523124516
+Content Type: text/javascript
+

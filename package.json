@@ -1,0 +1,11 @@
+{
+  "name": "arktrix-funnel-clone",
+  "version": "1.0.0",
+  "description": "Funnel clone for Vercel deployment",
+  "scripts": {
+    "start": "serve ."
+  },
+  "dependencies": {
+    "serve": "^14.2.3"
+  }
+}
